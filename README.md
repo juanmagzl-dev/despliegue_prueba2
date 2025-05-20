@@ -1,5 +1,7 @@
 # Analizador de Texto
 
+![Captura de pantalla](./Captura%20de%20pantalla%202025-05-20%20085420.png)
+
 ## Requisitos
 
 - PHP 7.4 o superior
@@ -59,3 +61,5 @@ Si el hook no está configurado automáticamente:
 - La cobertura de código debe estar entre 80-90%
 - Testea cada parte del proyecto de forma independiente
 - No omitas pruebas porque ya se han probado en una parte anterior 
+
+
