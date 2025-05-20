@@ -3,7 +3,7 @@
         'name' => 'vendor/analizador-texto',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '99b1de049eab2b31681ec1ee69496ff24804a7fc',
+        'reference' => 'bd5e82f90a67fdfcca1a7cf9a250cc970d082d75',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -265,7 +265,7 @@
         'vendor/analizador-texto' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '99b1de049eab2b31681ec1ee69496ff24804a7fc',
+            'reference' => 'bd5e82f90a67fdfcca1a7cf9a250cc970d082d75',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
