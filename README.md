@@ -2,12 +2,6 @@
 
 ![Captura de pantalla](./Captura%20de%20pantalla%202025-05-20%20085420.png)
 
-## Requisitos
-
-- PHP 7.4 o superior
-- Composer
-- Xdebug (para la cobertura de código)
-
 ## Instalación
 
 1. Clona el repositorio:
@@ -39,8 +33,7 @@ vendor/bin/phpunit --coverage-html coverage
 ```
 
 ## Git Hooks
-
-Este proyecto utiliza un Git hook pre-push que verifica:
+ utiliza un Git hook pre-push que verifica:
 - Que todos los tests pasen
 - Que la cobertura de código esté entre 80-90%
 
